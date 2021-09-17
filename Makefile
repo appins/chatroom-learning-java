@@ -1,0 +1,2 @@
+all:
+	java Server.java
